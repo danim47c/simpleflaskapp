@@ -1,0 +1,6 @@
+└── Flask App
+    ├── templates
+    │   └── *.html
+    ├── static
+    │   └── *.*
+    └── main.txt

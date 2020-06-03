@@ -1,0 +1,11 @@
+GET http://localhost:8080/
+
+HTTP/1.0 200 OK
+Content-Type: application/json
+Content-Length: 18
+Server: Werkzeug/1.0.1 Python/3.8.2
+Date: Tue, 02 Jun 2020 10:30:57 GMT
+
+{
+  "test": "Prueba"
+}
